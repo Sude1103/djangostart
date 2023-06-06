@@ -1,0 +1,3 @@
+django
+psycopg2 # postgresql veritabanını kullanabilmemiz için gerekli paket
+python-decouple # Güvenlik amaçlı bazı ayarları dosyada tutabilmemiz için gerekli paket

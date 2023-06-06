@@ -158,3 +158,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
+books/migrations/0001_initial.py
+books/migrations/0002_alter_book_descriptions_alter_book_isbn_and_more.py
+books/migrations/0003_booktype_book_book_type.py
